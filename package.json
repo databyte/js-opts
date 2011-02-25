@@ -1,5 +1,5 @@
 { "name"         : "js-opts"
-, "version"      : "0.0.1"
+, "version"      : "1.0.0"
 , "description"  : "Command line argument parser written in the style of commonjs. To be used with node.js."
 , "author"       : "Joey Mazzarelli / mazzarelli"
 , "contributors" : [
