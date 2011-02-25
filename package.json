@@ -1,7 +1,17 @@
-{ "name" : "js-opts"
-, "version" : "0.0.1"
-, "description" : "Command line argument parser written in the style of commonjs. To be used with node.js."
-, "author" : "Joey Mazzarelli / mazzarelli"
-, "main" : "opts"
-, "engines" : { "node" : ">=0.1.90" }
+{ "name"         : "js-opts"
+, "version"      : "0.0.1"
+, "description"  : "Command line argument parser written in the style of commonjs. To be used with node.js."
+, "author"       : "Joey Mazzarelli / mazzarelli"
+, "contributors" : [
+    "David Sommers <databyte@gmail.com>"
+  ]
+, "repository"   : {
+    "type" : "git",
+    "url"  : "http://github.com/databyte/js-opts.git"
+  }
+, "main"         : "./lib/opts"
+, "engines"      : { "node" : ">=0.1.90" }
+, "scripts"      : {}
+, "dependencies" : {}
 }
+
